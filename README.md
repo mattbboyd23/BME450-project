@@ -1,5 +1,5 @@
 # Title  
-“Long Leg Radiograph Analysis" 
+Long Leg Radiograph Analysis
 
 ## Team members  
 Matthew Boyd (mattboyd23), Sunishka Deshpande (sunishkad)
