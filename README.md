@@ -1,7 +1,7 @@
 # Title  
 Long Leg Radiograph Analysis
 
-## Team members  
+# Team members  
 Matthew Boyd (mattboyd23), Sunishka Deshpande (sunishkad)
 
 # Project description  
