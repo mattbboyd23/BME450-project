@@ -1,0 +1,40 @@
+Epoch 1/20 | Train Loss: 162472.46 | Val Loss: 146523.20
+    Hip MSE: 15668.46 | Knee MSE: 125938.59 | Ankle MSE: 297962.53
+Epoch 2/20 | Train Loss: 79227.55 | Val Loss: 19788.93
+    Hip MSE: 28411.86 | Knee MSE: 8488.56 | Ankle MSE: 22466.37
+Epoch 3/20 | Train Loss: 10009.73 | Val Loss: 2196.46
+    Hip MSE: 1844.62 | Knee MSE: 1686.65 | Ankle MSE: 3058.11
+Epoch 4/20 | Train Loss: 4120.63 | Val Loss: 1379.09
+    Hip MSE: 1598.77 | Knee MSE: 1198.09 | Ankle MSE: 1340.40
+Epoch 5/20 | Train Loss: 3523.38 | Val Loss: 1181.89
+    Hip MSE: 1469.99 | Knee MSE: 843.52 | Ankle MSE: 1232.15
+Epoch 6/20 | Train Loss: 2545.45 | Val Loss: 1046.81
+    Hip MSE: 1506.90 | Knee MSE: 740.54 | Ankle MSE: 892.98
+Epoch 7/20 | Train Loss: 2312.74 | Val Loss: 1031.51
+    Hip MSE: 1485.67 | Knee MSE: 713.71 | Ankle MSE: 895.15
+Epoch 8/20 | Train Loss: 1935.54 | Val Loss: 984.00
+    Hip MSE: 1648.34 | Knee MSE: 680.90 | Ankle MSE: 622.76
+Epoch 9/20 | Train Loss: 1595.46 | Val Loss: 977.03
+    Hip MSE: 1512.33 | Knee MSE: 695.83 | Ankle MSE: 722.91
+Epoch 10/20 | Train Loss: 1212.48 | Val Loss: 1041.06
+    Hip MSE: 1704.96 | Knee MSE: 790.58 | Ankle MSE: 627.64
+Epoch 11/20 | Train Loss: 1079.37 | Val Loss: 991.77
+    Hip MSE: 1637.26 | Knee MSE: 738.06 | Ankle MSE: 600.01
+Epoch 12/20 | Train Loss: 839.21 | Val Loss: 1001.19
+    Hip MSE: 1580.48 | Knee MSE: 788.04 | Ankle MSE: 635.05
+Epoch 13/20 | Train Loss: 747.98 | Val Loss: 1012.85
+    Hip MSE: 1736.38 | Knee MSE: 761.98 | Ankle MSE: 540.20
+Epoch 14/20 | Train Loss: 706.07 | Val Loss: 1029.12
+    Hip MSE: 1646.91 | Knee MSE: 859.89 | Ankle MSE: 580.57
+Epoch 15/20 | Train Loss: 705.73 | Val Loss: 1066.26
+    Hip MSE: 1648.35 | Knee MSE: 855.44 | Ankle MSE: 694.98
+Epoch 16/20 | Train Loss: 706.09 | Val Loss: 1300.06
+    Hip MSE: 1688.52 | Knee MSE: 1109.35 | Ankle MSE: 1102.32
+Epoch 17/20 | Train Loss: 672.91 | Val Loss: 1146.04
+    Hip MSE: 1627.19 | Knee MSE: 897.10 | Ankle MSE: 913.84
+Epoch 18/20 | Train Loss: 801.86 | Val Loss: 1425.30
+    Hip MSE: 1898.75 | Knee MSE: 1185.85 | Ankle MSE: 1191.30
+Epoch 19/20 | Train Loss: 783.91 | Val Loss: 1091.33
+    Hip MSE: 1840.49 | Knee MSE: 840.25 | Ankle MSE: 593.24
+Epoch 20/20 | Train Loss: 676.36 | Val Loss: 1065.51
+    Hip MSE: 1637.24 | Knee MSE: 853.64 | Ankle MSE: 705.66
