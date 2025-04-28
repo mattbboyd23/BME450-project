@@ -1,366 +1,366 @@
-Ep 150  Huber Tr81.01  Val60.41
-  RH RMSE px - Tr121.74 Val88.00
-  RK RMSE px - Tr46.17 Val23.54
-  RA RMSE px - Tr128.53 Val101.28
-  LH RMSE px - Tr103.85 Val61.42
-  LK RMSE px - Tr52.52 Val34.03
-  LA RMSE px - Tr173.27 Val134.90
-  New best saved
-Ep 250  Huber Tr45.37  Val21.00
-  RH RMSE px - Tr59.72 Val22.09
-  RK RMSE px - Tr49.04 Val32.82
-  RA RMSE px - Tr68.50 Val16.73
-  LH RMSE px - Tr53.41 Val27.73
-  LK RMSE px - Tr60.50 Val22.54
-  LA RMSE px - Tr92.03 Val44.77
-  New best saved
-Ep 350  Huber Tr35.01  Val17.35
-  RH RMSE px - Tr41.32 Val27.98
-  RK RMSE px - Tr50.85 Val17.54
-  RA RMSE px - Tr42.48 Val16.38
-  LH RMSE px - Tr46.31 Val22.91
-  LK RMSE px - Tr60.75 Val33.82
-  LA RMSE px - Tr55.02 Val21.45
-  New best saved
-Ep 450  Huber Tr34.05  Val13.96
-  RH RMSE px - Tr53.40 Val18.86
-  RK RMSE px - Tr51.83 Val27.77
-  RA RMSE px - Tr40.32 Val14.66
-  LH RMSE px - Tr40.75 Val19.55
-  LK RMSE px - Tr68.82 Val13.70
-  LA RMSE px - Tr38.44 Val21.35
-  New best saved
-Ep 550  Huber Tr32.58  Val12.98
-  RH RMSE px - Tr41.76 Val18.59
-  RK RMSE px - Tr51.18 Val12.99
-  RA RMSE px - Tr37.41 Val14.71
-  LH RMSE px - Tr52.05 Val17.98
-  LK RMSE px - Tr61.56 Val14.33
-  LA RMSE px - Tr34.01 Val27.25
-  New best saved
-Ep 650  Huber Tr30.29  Val13.09
-  RH RMSE px - Tr38.32 Val18.69
-  RK RMSE px - Tr46.54 Val16.45
-  RA RMSE px - Tr34.44 Val13.31
-  LH RMSE px - Tr41.84 Val18.05
-  LK RMSE px - Tr63.07 Val16.05
-  LA RMSE px - Tr39.08 Val25.18
-Ep 750  Huber Tr30.03  Val14.62
-  RH RMSE px - Tr46.25 Val19.02
-  RK RMSE px - Tr46.37 Val24.71
-  RA RMSE px - Tr31.77 Val13.87
-  LH RMSE px - Tr38.67 Val20.94
-  LK RMSE px - Tr49.47 Val25.63
-  LA RMSE px - Tr42.17 Val16.25
-Ep 850  Huber Tr29.87  Val12.67
-  RH RMSE px - Tr35.89 Val17.54
-  RK RMSE px - Tr47.36 Val16.47
-  RA RMSE px - Tr38.13 Val14.49
-  LH RMSE px - Tr44.85 Val20.92
-  LK RMSE px - Tr53.56 Val17.20
-  LA RMSE px - Tr35.90 Val19.35
-  New best saved
-Ep 950  Huber Tr27.98  Val17.36
-  RH RMSE px - Tr35.06 Val17.86
-  RK RMSE px - Tr39.06 Val12.07
-  RA RMSE px - Tr27.57 Val17.68
-  LH RMSE px - Tr37.57 Val24.68
-  LK RMSE px - Tr59.16 Val34.16
-  LA RMSE px - Tr36.23 Val27.55
-Ep 1050  Huber Tr27.76  Val11.00
-  RH RMSE px - Tr29.56 Val18.77
-  RK RMSE px - Tr44.34 Val10.43
-  RA RMSE px - Tr34.12 Val9.16
-  LH RMSE px - Tr36.94 Val14.41
-  LK RMSE px - Tr59.67 Val20.86
-  LA RMSE px - Tr32.18 Val17.27
-  New best saved
-Ep 1150  Huber Tr27.16  Val10.60
-  RH RMSE px - Tr31.34 Val16.92
-  RK RMSE px - Tr41.29 Val11.08
-  RA RMSE px - Tr32.53 Val11.01
-  LH RMSE px - Tr36.93 Val15.99
-  LK RMSE px - Tr47.65 Val12.73
-  LA RMSE px - Tr34.48 Val18.15
-  New best saved
-Ep 1250  Huber Tr29.78  Val12.43
-  RH RMSE px - Tr38.73 Val22.86
-  RK RMSE px - Tr43.45 Val10.80
-  RA RMSE px - Tr38.02 Val13.55
-  LH RMSE px - Tr46.86 Val20.57
-  LK RMSE px - Tr49.94 Val11.64
-  LA RMSE px - Tr38.28 Val22.99
-Ep 1350  Huber Tr27.82  Val10.31
-  RH RMSE px - Tr39.30 Val16.29
-  RK RMSE px - Tr46.72 Val12.42
-  RA RMSE px - Tr40.28 Val10.94
-  LH RMSE px - Tr35.20 Val16.90
-  LK RMSE px - Tr44.98 Val12.11
-  LA RMSE px - Tr34.20 Val16.82
-  New best saved
-Ep 1450  Huber Tr24.56  Val10.53
-  RH RMSE px - Tr32.82 Val17.87
-  RK RMSE px - Tr40.53 Val10.27
-  RA RMSE px - Tr28.92 Val9.56
-  LH RMSE px - Tr33.23 Val20.20
-  LK RMSE px - Tr41.87 Val12.79
-  LA RMSE px - Tr33.88 Val13.86
-Ep 1550  Huber Tr26.36  Val9.67
-  RH RMSE px - Tr34.74 Val15.85
-  RK RMSE px - Tr41.83 Val9.97
-  RA RMSE px - Tr30.44 Val9.44
-  LH RMSE px - Tr36.51 Val17.01
-  LK RMSE px - Tr44.90 Val10.47
-  LA RMSE px - Tr35.65 Val16.29
-  New best saved
-Ep 1650  Huber Tr24.12  Val11.43
-  RH RMSE px - Tr33.94 Val17.68
-  RK RMSE px - Tr38.90 Val15.41
-  RA RMSE px - Tr25.73 Val11.07
-  LH RMSE px - Tr32.82 Val21.07
-  LK RMSE px - Tr44.31 Val16.25
-  LA RMSE px - Tr28.30 Val12.78
-Ep 1750  Huber Tr26.30  Val10.09
-  RH RMSE px - Tr39.43 Val17.07
-  RK RMSE px - Tr35.16 Val9.29
-  RA RMSE px - Tr32.98 Val11.30
-  LH RMSE px - Tr39.67 Val16.94
-  LK RMSE px - Tr42.94 Val9.94
-  LA RMSE px - Tr35.01 Val16.08
-Ep 1850  Huber Tr25.95  Val11.00
-  RH RMSE px - Tr36.04 Val16.07
-  RK RMSE px - Tr36.00 Val10.91
-  RA RMSE px - Tr28.42 Val10.99
-  LH RMSE px - Tr39.29 Val15.47
-  LK RMSE px - Tr48.42 Val20.92
-  LA RMSE px - Tr35.19 Val14.56
-Ep 1950  Huber Tr24.91  Val9.04
-  RH RMSE px - Tr36.64 Val13.34
-  RK RMSE px - Tr38.00 Val9.58
-  RA RMSE px - Tr28.29 Val11.43
-  LH RMSE px - Tr38.72 Val15.35
-  LK RMSE px - Tr45.53 Val14.46
-  LA RMSE px - Tr30.38 Val10.73
-  New best saved
-Ep 2050  Huber Tr24.10  Val9.31
-  RH RMSE px - Tr33.12 Val13.20
-  RK RMSE px - Tr44.78 Val14.25
-  RA RMSE px - Tr28.61 Val14.18
-  LH RMSE px - Tr31.65 Val11.91
-  LK RMSE px - Tr42.42 Val8.45
-  LA RMSE px - Tr25.94 Val12.27
-Ep 2150  Huber Tr24.95  Val10.03
-  RH RMSE px - Tr36.36 Val14.56
-  RK RMSE px - Tr32.44 Val15.37
-  RA RMSE px - Tr32.06 Val13.22
-  LH RMSE px - Tr36.18 Val13.39
-  LK RMSE px - Tr37.98 Val9.85
-  LA RMSE px - Tr34.99 Val13.34
-Ep 2250  Huber Tr24.16  Val9.52
-  RH RMSE px - Tr35.79 Val13.96
-  RK RMSE px - Tr32.53 Val12.53
-  RA RMSE px - Tr25.84 Val10.38
-  LH RMSE px - Tr34.37 Val15.13
-  LK RMSE px - Tr48.11 Val11.29
-  LA RMSE px - Tr35.16 Val13.52
-Ep 2350  Huber Tr23.21  Val9.40
-  RH RMSE px - Tr33.32 Val16.87
-  RK RMSE px - Tr33.17 Val10.94
-  RA RMSE px - Tr26.12 Val8.54
-  LH RMSE px - Tr38.69 Val17.66
-  LK RMSE px - Tr36.66 Val9.84
-  LA RMSE px - Tr30.23 Val14.06
-Ep 2450  Huber Tr23.61  Val9.29
-  RH RMSE px - Tr31.95 Val16.35
-  RK RMSE px - Tr38.41 Val9.11
-  RA RMSE px - Tr25.27 Val9.60
-  LH RMSE px - Tr34.75 Val16.88
-  LK RMSE px - Tr40.16 Val9.78
-  LA RMSE px - Tr29.47 Val15.42
-Ep 2550  Huber Tr23.50  Val9.50
-  RH RMSE px - Tr33.51 Val14.91
-  RK RMSE px - Tr33.08 Val9.75
-  RA RMSE px - Tr27.16 Val9.94
-  LH RMSE px - Tr31.07 Val17.90
-  LK RMSE px - Tr42.94 Val11.68
-  LA RMSE px - Tr26.91 Val14.50
-Ep 2650  Huber Tr23.10  Val8.56
-  RH RMSE px - Tr36.05 Val14.20
-  RK RMSE px - Tr38.69 Val8.29
-  RA RMSE px - Tr25.15 Val9.85
-  LH RMSE px - Tr31.41 Val16.28
-  LK RMSE px - Tr39.29 Val10.40
-  LA RMSE px - Tr28.07 Val11.33
-  New best saved
-Ep 2750  Huber Tr23.09  Val8.46
-  RH RMSE px - Tr29.00 Val13.72
-  RK RMSE px - Tr36.41 Val7.63
-  RA RMSE px - Tr24.67 Val9.33
-  LH RMSE px - Tr35.18 Val14.82
-  LK RMSE px - Tr38.50 Val10.21
-  LA RMSE px - Tr30.85 Val11.57
-  New best saved
-Ep 2850  Huber Tr22.88  Val8.09
-  RH RMSE px - Tr32.81 Val13.32
-  RK RMSE px - Tr35.79 Val6.42
-  RA RMSE px - Tr27.39 Val10.09
-  LH RMSE px - Tr36.21 Val13.66
-  LK RMSE px - Tr37.88 Val9.48
-  LA RMSE px - Tr26.84 Val12.38
-  New best saved
-Ep 2950  Huber Tr21.76  Val8.82
-  RH RMSE px - Tr30.09 Val14.94
-  RK RMSE px - Tr30.85 Val7.06
-  RA RMSE px - Tr29.18 Val11.06
-  LH RMSE px - Tr28.60 Val15.14
-  LK RMSE px - Tr39.46 Val10.07
-  LA RMSE px - Tr29.56 Val14.85
-Ep 3050  Huber Tr22.14  Val8.65
-  RH RMSE px - Tr31.19 Val13.68
-  RK RMSE px - Tr32.94 Val7.67
-  RA RMSE px - Tr31.03 Val10.94
-  LH RMSE px - Tr31.42 Val14.03
-  LK RMSE px - Tr32.51 Val10.29
-  LA RMSE px - Tr31.16 Val15.02
-Ep 3150  Huber Tr23.23  Val8.24
-  RH RMSE px - Tr34.44 Val13.17
-  RK RMSE px - Tr38.55 Val6.97
-  RA RMSE px - Tr25.82 Val10.93
-  LH RMSE px - Tr37.12 Val13.63
-  LK RMSE px - Tr35.20 Val10.20
-  LA RMSE px - Tr26.70 Val13.90
-Ep 3250  Huber Tr21.63  Val8.64
-  RH RMSE px - Tr30.97 Val13.26
-  RK RMSE px - Tr34.50 Val7.32
-  RA RMSE px - Tr29.72 Val10.68
-  LH RMSE px - Tr29.83 Val13.95
-  LK RMSE px - Tr33.73 Val10.78
-  LA RMSE px - Tr23.71 Val14.12
-Ep 3350  Huber Tr20.69  Val9.68
-  RH RMSE px - Tr27.32 Val13.76
-  RK RMSE px - Tr31.93 Val7.55
-  RA RMSE px - Tr24.81 Val11.87
-  LH RMSE px - Tr31.99 Val15.36
-  LK RMSE px - Tr33.32 Val14.26
-  LA RMSE px - Tr31.71 Val15.51
-Ep 3450  Huber Tr23.80  Val9.59
-  RH RMSE px - Tr28.74 Val13.28
-  RK RMSE px - Tr34.83 Val8.42
-  RA RMSE px - Tr28.39 Val11.69
-  LH RMSE px - Tr39.33 Val14.90
-  LK RMSE px - Tr42.32 Val14.14
-  LA RMSE px - Tr34.89 Val14.94
-Ep 3550  Huber Tr21.45  Val9.95
-  RH RMSE px - Tr28.98 Val13.13
-  RK RMSE px - Tr33.60 Val8.58
-  RA RMSE px - Tr26.98 Val12.73
-  LH RMSE px - Tr27.76 Val13.53
-  LK RMSE px - Tr40.58 Val14.27
-  LA RMSE px - Tr23.13 Val16.59
-Ep 3650  Huber Tr23.08  Val8.56
-  RH RMSE px - Tr33.57 Val12.14
-  RK RMSE px - Tr31.24 Val8.07
-  RA RMSE px - Tr28.71 Val11.26
-  LH RMSE px - Tr36.37 Val12.46
-  LK RMSE px - Tr37.10 Val10.20
-  LA RMSE px - Tr36.68 Val14.88
-Ep 3750  Huber Tr21.27  Val8.25
-  RH RMSE px - Tr32.95 Val11.97
-  RK RMSE px - Tr28.47 Val7.98
-  RA RMSE px - Tr25.23 Val10.69
-  LH RMSE px - Tr32.87 Val12.29
-  LK RMSE px - Tr35.13 Val9.46
-  LA RMSE px - Tr24.34 Val14.60
-Ep 3850  Huber Tr21.97  Val8.30
-  RH RMSE px - Tr29.74 Val11.31
-  RK RMSE px - Tr33.72 Val7.98
-  RA RMSE px - Tr26.53 Val10.83
-  LH RMSE px - Tr26.70 Val12.11
-  LK RMSE px - Tr40.63 Val9.91
-  LA RMSE px - Tr31.06 Val14.55
-Ep 3950  Huber Tr22.54  Val7.86
-  RH RMSE px - Tr31.73 Val11.26
-  RK RMSE px - Tr35.21 Val7.91
-  RA RMSE px - Tr27.71 Val9.65
-  LH RMSE px - Tr32.03 Val11.74
-  LK RMSE px - Tr39.70 Val9.20
-  LA RMSE px - Tr27.66 Val13.48
-  New best saved
-Ep 4050  Huber Tr21.90  Val7.98
-  RH RMSE px - Tr33.35 Val11.61
-  RK RMSE px - Tr33.76 Val9.04
-  RA RMSE px - Tr23.15 Val9.78
-  LH RMSE px - Tr32.51 Val11.75
-  LK RMSE px - Tr34.33 Val9.20
-  LA RMSE px - Tr26.98 Val14.07
-Ep 4150  Huber Tr22.15  Val7.96
-  RH RMSE px - Tr28.62 Val11.21
-  RK RMSE px - Tr32.21 Val8.35
-  RA RMSE px - Tr30.11 Val9.86
-  LH RMSE px - Tr32.79 Val12.05
-  LK RMSE px - Tr33.82 Val8.83
-  LA RMSE px - Tr29.05 Val14.47
-Ep 4250  Huber Tr22.76  Val7.92
-  RH RMSE px - Tr33.48 Val11.01
-  RK RMSE px - Tr33.01 Val8.02
-  RA RMSE px - Tr25.66 Val10.15
-  LH RMSE px - Tr36.04 Val11.84
-  LK RMSE px - Tr41.18 Val8.92
-  LA RMSE px - Tr27.27 Val14.34
-Ep 4350  Huber Tr22.79  Val8.40
-  RH RMSE px - Tr35.97 Val11.16
-  RK RMSE px - Tr28.26 Val8.08
-  RA RMSE px - Tr28.44 Val11.17
-  LH RMSE px - Tr33.11 Val12.37
-  LK RMSE px - Tr35.26 Val9.12
-  LA RMSE px - Tr29.89 Val15.71
-Ep 4450  Huber Tr20.98  Val8.33
-  RH RMSE px - Tr30.32 Val10.99
-  RK RMSE px - Tr30.00 Val8.06
-  RA RMSE px - Tr24.06 Val10.98
-  LH RMSE px - Tr34.35 Val12.17
-  LK RMSE px - Tr32.80 Val9.19
-  LA RMSE px - Tr26.40 Val15.41
-Ep 4550  Huber Tr21.35  Val8.46
-  RH RMSE px - Tr28.54 Val10.97
-  RK RMSE px - Tr29.57 Val8.12
-  RA RMSE px - Tr26.96 Val11.67
-  LH RMSE px - Tr32.32 Val12.03
-  LK RMSE px - Tr35.95 Val9.18
-  LA RMSE px - Tr29.84 Val16.02
-Ep 4650  Huber Tr21.34  Val8.49
-  RH RMSE px - Tr31.22 Val10.78
-  RK RMSE px - Tr26.86 Val7.86
-  RA RMSE px - Tr26.62 Val11.90
-  LH RMSE px - Tr31.25 Val11.94
-  LK RMSE px - Tr36.47 Val9.40
-  LA RMSE px - Tr30.80 Val16.29
-Ep 4750  Huber Tr20.99  Val8.47
-  RH RMSE px - Tr31.00 Val11.60
-  RK RMSE px - Tr29.65 Val7.48
-  RA RMSE px - Tr27.84 Val11.70
-  LH RMSE px - Tr26.42 Val12.50
-  LK RMSE px - Tr34.40 Val8.89
-  LA RMSE px - Tr26.15 Val15.76
-Ep 4850  Huber Tr21.15  Val8.24
-  RH RMSE px - Tr34.59 Val11.32
-  RK RMSE px - Tr28.69 Val7.57
-  RA RMSE px - Tr23.99 Val11.15
-  LH RMSE px - Tr27.28 Val12.37
-  LK RMSE px - Tr36.81 Val8.77
-  LA RMSE px - Tr27.10 Val14.98
-Ep 4950  Huber Tr21.63  Val8.27
-  RH RMSE px - Tr31.82 Val11.65
-  RK RMSE px - Tr31.17 Val7.52
-  RA RMSE px - Tr26.52 Val10.93
-  LH RMSE px - Tr28.66 Val12.77
-  LK RMSE px - Tr38.35 Val8.71
-  LA RMSE px - Tr28.01 Val14.78
-Ep 5050  Huber Tr21.59  Val8.12
-  RH RMSE px - Tr27.73 Val10.77
-  RK RMSE px - Tr30.54 Val7.56
-  RA RMSE px - Tr25.42 Val11.28
-  LH RMSE px - Tr34.25 Val11.70
-  LK RMSE px - Tr39.70 Val8.99
-  LA RMSE px - Tr27.35 Val15.28
+Ep 1/50 | Huber Tr:81.01 | Val:60.41
+  RH RMSE px - Tr:122.67 Val:88.64
+  RK RMSE px - Tr:46.66 Val:23.02
+  RA RMSE px - Tr:129.60 Val:101.09
+  LH RMSE px - Tr:104.48 Val:61.89
+  LK RMSE px - Tr:53.02 Val:33.31
+  LA RMSE px - Tr:174.32 Val:134.31
+ * New best saved
+Ep 2/50 | Huber Tr:45.37 | Val:21.00
+  RH RMSE px - Tr:60.15 Val:21.73
+  RK RMSE px - Tr:49.24 Val:33.27
+  RA RMSE px - Tr:68.89 Val:16.33
+  LH RMSE px - Tr:53.50 Val:27.27
+  LK RMSE px - Tr:61.26 Val:21.68
+  LA RMSE px - Tr:92.61 Val:44.65
+ * New best saved
+Ep 3/50 | Huber Tr:35.01 | Val:17.35
+  RH RMSE px - Tr:41.69 Val:27.10
+  RK RMSE px - Tr:50.32 Val:17.74
+  RA RMSE px - Tr:42.62 Val:16.43
+  LH RMSE px - Tr:46.83 Val:22.62
+  LK RMSE px - Tr:61.04 Val:32.60
+  LA RMSE px - Tr:55.13 Val:21.00
+ * New best saved
+Ep 4/50 | Huber Tr:34.05 | Val:13.96
+  RH RMSE px - Tr:53.19 Val:18.47
+  RK RMSE px - Tr:51.13 Val:27.85
+  RA RMSE px - Tr:39.74 Val:14.85
+  LH RMSE px - Tr:41.04 Val:19.63
+  LK RMSE px - Tr:65.96 Val:13.21
+  LA RMSE px - Tr:38.07 Val:21.15
+ * New best saved
+Ep 5/50 | Huber Tr:32.58 | Val:12.98
+  RH RMSE px - Tr:40.75 Val:18.19
+  RK RMSE px - Tr:51.71 Val:13.14
+  RA RMSE px - Tr:37.44 Val:14.79
+  LH RMSE px - Tr:51.92 Val:17.82
+  LK RMSE px - Tr:59.55 Val:14.10
+  LA RMSE px - Tr:34.18 Val:26.95
+ * New best saved
+Ep 6/50 | Huber Tr:30.29 | Val:13.09
+  RH RMSE px - Tr:38.60 Val:18.45
+  RK RMSE px - Tr:46.35 Val:16.36
+  RA RMSE px - Tr:34.21 Val:13.39
+  LH RMSE px - Tr:42.10 Val:18.06
+  LK RMSE px - Tr:63.49 Val:16.02
+  LA RMSE px - Tr:39.41 Val:24.78
+Ep 7/50 | Huber Tr:30.03 | Val:14.62
+  RH RMSE px - Tr:46.66 Val:18.98
+  RK RMSE px - Tr:45.21 Val:24.80
+  RA RMSE px - Tr:31.14 Val:13.95
+  LH RMSE px - Tr:38.91 Val:20.86
+  LK RMSE px - Tr:49.54 Val:25.46
+  LA RMSE px - Tr:42.34 Val:16.19
+Ep 8/50 | Huber Tr:29.87 | Val:12.67
+  RH RMSE px - Tr:35.41 Val:17.45
+  RK RMSE px - Tr:47.43 Val:16.57
+  RA RMSE px - Tr:35.72 Val:14.50
+  LH RMSE px - Tr:45.08 Val:21.20
+  LK RMSE px - Tr:52.73 Val:17.05
+  LA RMSE px - Tr:36.06 Val:19.42
+ * New best saved
+Ep 9/50 | Huber Tr:27.98 | Val:17.36
+  RH RMSE px - Tr:34.85 Val:18.06
+  RK RMSE px - Tr:39.53 Val:12.08
+  RA RMSE px - Tr:27.55 Val:17.54
+  LH RMSE px - Tr:37.62 Val:25.06
+  LK RMSE px - Tr:59.04 Val:33.95
+  LA RMSE px - Tr:36.24 Val:27.35
+Ep 10/50 | Huber Tr:27.76 | Val:11.00
+  RH RMSE px - Tr:29.87 Val:18.78
+  RK RMSE px - Tr:44.74 Val:10.57
+  RA RMSE px - Tr:34.44 Val:9.16
+  LH RMSE px - Tr:37.32 Val:14.52
+  LK RMSE px - Tr:60.13 Val:20.65
+  LA RMSE px - Tr:32.22 Val:16.88
+ * New best saved
+Ep 11/50 | Huber Tr:27.16 | Val:10.60
+  RH RMSE px - Tr:31.52 Val:16.88
+  RK RMSE px - Tr:40.34 Val:11.06
+  RA RMSE px - Tr:32.57 Val:10.90
+  LH RMSE px - Tr:37.18 Val:15.96
+  LK RMSE px - Tr:48.03 Val:12.64
+  LA RMSE px - Tr:34.72 Val:17.81
+ * New best saved
+Ep 12/50 | Huber Tr:29.78 | Val:12.43
+  RH RMSE px - Tr:39.09 Val:23.03
+  RK RMSE px - Tr:43.77 Val:10.69
+  RA RMSE px - Tr:38.34 Val:13.25
+  LH RMSE px - Tr:45.35 Val:20.68
+  LK RMSE px - Tr:50.15 Val:11.55
+  LA RMSE px - Tr:38.14 Val:22.59
+Ep 13/50 | Huber Tr:27.82 | Val:10.31
+  RH RMSE px - Tr:38.66 Val:16.38
+  RK RMSE px - Tr:47.05 Val:12.10
+  RA RMSE px - Tr:40.14 Val:10.75
+  LH RMSE px - Tr:35.62 Val:16.83
+  LK RMSE px - Tr:44.22 Val:11.75
+  LA RMSE px - Tr:33.90 Val:16.40
+ * New best saved
+Ep 14/50 | Huber Tr:24.56 | Val:10.53
+  RH RMSE px - Tr:33.07 Val:17.68
+  RK RMSE px - Tr:40.99 Val:10.02
+  RA RMSE px - Tr:29.27 Val:9.40
+  LH RMSE px - Tr:33.53 Val:19.94
+  LK RMSE px - Tr:42.23 Val:12.88
+  LA RMSE px - Tr:34.16 Val:13.61
+Ep 15/50 | Huber Tr:26.36 | Val:9.67
+  RH RMSE px - Tr:34.79 Val:15.93
+  RK RMSE px - Tr:41.98 Val:9.97
+  RA RMSE px - Tr:30.33 Val:9.42
+  LH RMSE px - Tr:36.78 Val:17.12
+  LK RMSE px - Tr:45.11 Val:10.40
+  LA RMSE px - Tr:35.32 Val:16.06
+ * New best saved
+Ep 16/50 | Huber Tr:24.12 | Val:11.43
+  RH RMSE px - Tr:34.25 Val:17.58
+  RK RMSE px - Tr:38.51 Val:15.39
+  RA RMSE px - Tr:25.94 Val:11.00
+  LH RMSE px - Tr:32.80 Val:20.88
+  LK RMSE px - Tr:44.65 Val:16.41
+  LA RMSE px - Tr:28.64 Val:12.71
+Ep 17/50 | Huber Tr:26.30 | Val:10.09
+  RH RMSE px - Tr:39.83 Val:16.99
+  RK RMSE px - Tr:35.65 Val:9.13
+  RA RMSE px - Tr:32.53 Val:11.26
+  LH RMSE px - Tr:39.56 Val:16.99
+  LK RMSE px - Tr:43.18 Val:9.95
+  LA RMSE px - Tr:35.33 Val:15.87
+Ep 18/50 | Huber Tr:25.95 | Val:11.00
+  RH RMSE px - Tr:36.14 Val:16.08
+  RK RMSE px - Tr:35.97 Val:10.65
+  RA RMSE px - Tr:28.32 Val:11.03
+  LH RMSE px - Tr:39.48 Val:15.62
+  LK RMSE px - Tr:47.48 Val:20.66
+  LA RMSE px - Tr:35.49 Val:14.35
+Ep 19/50 | Huber Tr:24.91 | Val:9.04
+  RH RMSE px - Tr:36.31 Val:13.24
+  RK RMSE px - Tr:38.31 Val:9.33
+  RA RMSE px - Tr:28.64 Val:11.41
+  LH RMSE px - Tr:37.78 Val:15.28
+  LK RMSE px - Tr:46.03 Val:14.16
+  LA RMSE px - Tr:30.58 Val:10.63
+ * New best saved
+Ep 20/50 | Huber Tr:24.10 | Val:9.31
+  RH RMSE px - Tr:32.47 Val:13.37
+  RK RMSE px - Tr:44.96 Val:14.24
+  RA RMSE px - Tr:28.82 Val:14.09
+  LH RMSE px - Tr:31.43 Val:11.91
+  LK RMSE px - Tr:42.74 Val:8.41
+  LA RMSE px - Tr:26.17 Val:12.09
+Ep 21/50 | Huber Tr:24.95 | Val:10.03
+  RH RMSE px - Tr:36.47 Val:14.69
+  RK RMSE px - Tr:31.95 Val:15.41
+  RA RMSE px - Tr:32.39 Val:13.09
+  LH RMSE px - Tr:36.43 Val:13.36
+  LK RMSE px - Tr:38.25 Val:9.69
+  LA RMSE px - Tr:35.24 Val:13.06
+Ep 22/50 | Huber Tr:24.16 | Val:9.52
+  RH RMSE px - Tr:35.98 Val:14.05
+  RK RMSE px - Tr:32.87 Val:12.07
+  RA RMSE px - Tr:25.03 Val:10.31
+  LH RMSE px - Tr:34.75 Val:15.14
+  LK RMSE px - Tr:46.14 Val:10.90
+  LA RMSE px - Tr:35.03 Val:13.14
+Ep 23/50 | Huber Tr:23.21 | Val:9.40
+  RH RMSE px - Tr:33.10 Val:16.86
+  RK RMSE px - Tr:32.43 Val:10.35
+  RA RMSE px - Tr:25.79 Val:8.47
+  LH RMSE px - Tr:38.15 Val:17.63
+  LK RMSE px - Tr:36.91 Val:9.62
+  LA RMSE px - Tr:29.78 Val:13.64
+Ep 24/50 | Huber Tr:23.61 | Val:9.29
+  RH RMSE px - Tr:31.98 Val:16.29
+  RK RMSE px - Tr:38.71 Val:8.77
+  RA RMSE px - Tr:25.47 Val:9.43
+  LH RMSE px - Tr:34.81 Val:16.82
+  LK RMSE px - Tr:40.17 Val:9.51
+  LA RMSE px - Tr:29.69 Val:15.03
+Ep 25/50 | Huber Tr:23.50 | Val:9.50
+  RH RMSE px - Tr:33.63 Val:14.94
+  RK RMSE px - Tr:33.17 Val:9.57
+  RA RMSE px - Tr:27.35 Val:9.80
+  LH RMSE px - Tr:31.41 Val:17.81
+  LK RMSE px - Tr:42.51 Val:11.49
+  LA RMSE px - Tr:26.65 Val:14.20
+Ep 26/50 | Huber Tr:23.10 | Val:8.56
+  RH RMSE px - Tr:36.32 Val:14.34
+  RK RMSE px - Tr:38.33 Val:7.96
+  RA RMSE px - Tr:24.74 Val:9.69
+  LH RMSE px - Tr:31.82 Val:16.25
+  LK RMSE px - Tr:39.36 Val:10.29
+  LA RMSE px - Tr:28.41 Val:11.11
+ * New best saved
+Ep 27/50 | Huber Tr:23.09 | Val:8.46
+  RH RMSE px - Tr:29.00 Val:13.78
+  RK RMSE px - Tr:36.30 Val:7.36
+  RA RMSE px - Tr:24.54 Val:9.16
+  LH RMSE px - Tr:35.51 Val:14.83
+  LK RMSE px - Tr:38.55 Val:10.21
+  LA RMSE px - Tr:30.91 Val:11.31
+ * New best saved
+Ep 28/50 | Huber Tr:22.88 | Val:8.09
+  RH RMSE px - Tr:32.98 Val:13.34
+  RK RMSE px - Tr:35.54 Val:6.39
+  RA RMSE px - Tr:27.77 Val:9.83
+  LH RMSE px - Tr:36.66 Val:13.67
+  LK RMSE px - Tr:37.13 Val:9.50
+  LA RMSE px - Tr:27.12 Val:12.09
+ * New best saved
+Ep 29/50 | Huber Tr:21.76 | Val:8.82
+  RH RMSE px - Tr:30.45 Val:15.12
+  RK RMSE px - Tr:31.27 Val:6.94
+  RA RMSE px - Tr:29.16 Val:10.69
+  LH RMSE px - Tr:28.86 Val:15.27
+  LK RMSE px - Tr:39.70 Val:10.11
+  LA RMSE px - Tr:29.82 Val:14.48
+Ep 30/50 | Huber Tr:22.14 | Val:8.65
+  RH RMSE px - Tr:31.40 Val:13.85
+  RK RMSE px - Tr:32.59 Val:7.42
+  RA RMSE px - Tr:29.47 Val:10.63
+  LH RMSE px - Tr:30.92 Val:14.12
+  LK RMSE px - Tr:32.91 Val:10.30
+  LA RMSE px - Tr:30.68 Val:14.69
+Ep 31/50 | Huber Tr:23.23 | Val:8.24
+  RH RMSE px - Tr:34.07 Val:13.35
+  RK RMSE px - Tr:38.87 Val:6.86
+  RA RMSE px - Tr:26.07 Val:10.58
+  LH RMSE px - Tr:36.96 Val:13.71
+  LK RMSE px - Tr:35.58 Val:10.19
+  LA RMSE px - Tr:26.95 Val:13.50
+Ep 32/50 | Huber Tr:21.63 | Val:8.64
+  RH RMSE px - Tr:31.14 Val:13.42
+  RK RMSE px - Tr:33.49 Val:7.20
+  RA RMSE px - Tr:29.87 Val:10.41
+  LH RMSE px - Tr:29.85 Val:14.02
+  LK RMSE px - Tr:33.77 Val:10.70
+  LA RMSE px - Tr:23.49 Val:13.68
+Ep 33/50 | Huber Tr:20.69 | Val:9.68
+  RH RMSE px - Tr:27.55 Val:13.94
+  RK RMSE px - Tr:32.01 Val:7.46
+  RA RMSE px - Tr:25.07 Val:11.58
+  LH RMSE px - Tr:32.35 Val:15.41
+  LK RMSE px - Tr:32.96 Val:14.11
+  LA RMSE px - Tr:31.84 Val:15.07
+Ep 34/50 | Huber Tr:23.80 | Val:9.59
+  RH RMSE px - Tr:28.86 Val:13.45
+  RK RMSE px - Tr:34.14 Val:8.44
+  RA RMSE px - Tr:28.46 Val:11.40
+  LH RMSE px - Tr:39.72 Val:14.96
+  LK RMSE px - Tr:41.49 Val:13.89
+  LA RMSE px - Tr:33.95 Val:14.51
+Ep 35/50 | Huber Tr:21.45 | Val:9.95
+  RH RMSE px - Tr:29.16 Val:13.31
+  RK RMSE px - Tr:33.86 Val:8.48
+  RA RMSE px - Tr:26.86 Val:12.37
+  LH RMSE px - Tr:27.30 Val:13.54
+  LK RMSE px - Tr:39.52 Val:13.93
+  LA RMSE px - Tr:22.95 Val:16.07
+Ep 36/50 | Huber Tr:23.08 | Val:8.56
+  RH RMSE px - Tr:32.78 Val:12.26
+  RK RMSE px - Tr:31.50 Val:7.96
+  RA RMSE px - Tr:28.84 Val:10.95
+  LH RMSE px - Tr:36.22 Val:12.46
+  LK RMSE px - Tr:36.39 Val:9.95
+  LA RMSE px - Tr:33.66 Val:14.39
+Ep 37/50 | Huber Tr:21.27 | Val:8.25
+  RH RMSE px - Tr:33.15 Val:12.03
+  RK RMSE px - Tr:28.32 Val:7.85
+  RA RMSE px - Tr:25.27 Val:10.40
+  LH RMSE px - Tr:33.18 Val:12.25
+  LK RMSE px - Tr:35.15 Val:9.30
+  LA RMSE px - Tr:24.64 Val:14.12
+Ep 38/50 | Huber Tr:21.97 | Val:8.30
+  RH RMSE px - Tr:30.14 Val:11.35
+  RK RMSE px - Tr:33.12 Val:7.77
+  RA RMSE px - Tr:26.75 Val:10.55
+  LH RMSE px - Tr:26.93 Val:12.06
+  LK RMSE px - Tr:39.99 Val:9.63
+  LA RMSE px - Tr:30.80 Val:14.11
+Ep 39/50 | Huber Tr:22.54 | Val:7.86
+  RH RMSE px - Tr:31.03 Val:11.30
+  RK RMSE px - Tr:34.91 Val:7.71
+  RA RMSE px - Tr:27.60 Val:9.50
+  LH RMSE px - Tr:31.23 Val:11.72
+  LK RMSE px - Tr:38.94 Val:8.91
+  LA RMSE px - Tr:27.92 Val:13.05
+ * New best saved
+Ep 40/50 | Huber Tr:21.90 | Val:7.98
+  RH RMSE px - Tr:32.98 Val:11.61
+  RK RMSE px - Tr:32.63 Val:8.73
+  RA RMSE px - Tr:23.16 Val:9.58
+  LH RMSE px - Tr:32.22 Val:11.70
+  LK RMSE px - Tr:34.13 Val:8.84
+  LA RMSE px - Tr:27.21 Val:13.59
+Ep 41/50 | Huber Tr:22.15 | Val:7.96
+  RH RMSE px - Tr:28.82 Val:11.24
+  RK RMSE px - Tr:32.15 Val:8.05
+  RA RMSE px - Tr:29.24 Val:9.66
+  LH RMSE px - Tr:33.19 Val:12.04
+  LK RMSE px - Tr:34.03 Val:8.54
+  LA RMSE px - Tr:27.93 Val:13.99
+Ep 42/50 | Huber Tr:22.76 | Val:7.92
+  RH RMSE px - Tr:33.69 Val:11.03
+  RK RMSE px - Tr:33.00 Val:7.75
+  RA RMSE px - Tr:25.71 Val:9.96
+  LH RMSE px - Tr:36.27 Val:11.81
+  LK RMSE px - Tr:41.63 Val:8.63
+  LA RMSE px - Tr:27.55 Val:13.88
+Ep 43/50 | Huber Tr:22.79 | Val:8.40
+  RH RMSE px - Tr:36.38 Val:11.21
+  RK RMSE px - Tr:28.24 Val:7.78
+  RA RMSE px - Tr:28.69 Val:10.92
+  LH RMSE px - Tr:33.06 Val:12.36
+  LK RMSE px - Tr:34.44 Val:8.79
+  LA RMSE px - Tr:30.26 Val:15.24
+Ep 44/50 | Huber Tr:20.98 | Val:8.33
+  RH RMSE px - Tr:30.65 Val:11.02
+  RK RMSE px - Tr:30.28 Val:7.76
+  RA RMSE px - Tr:24.09 Val:10.73
+  LH RMSE px - Tr:34.74 Val:12.15
+  LK RMSE px - Tr:32.94 Val:8.83
+  LA RMSE px - Tr:26.39 Val:14.94
+Ep 45/50 | Huber Tr:21.35 | Val:8.46
+  RH RMSE px - Tr:28.27 Val:11.00
+  RK RMSE px - Tr:29.36 Val:7.83
+  RA RMSE px - Tr:27.12 Val:11.42
+  LH RMSE px - Tr:31.85 Val:11.99
+  LK RMSE px - Tr:36.43 Val:8.85
+  LA RMSE px - Tr:28.31 Val:15.56
+Ep 46/50 | Huber Tr:21.34 | Val:8.49
+  RH RMSE px - Tr:31.04 Val:10.84
+  RK RMSE px - Tr:27.22 Val:7.58
+  RA RMSE px - Tr:26.87 Val:11.62
+  LH RMSE px - Tr:31.42 Val:11.92
+  LK RMSE px - Tr:36.87 Val:9.04
+  LA RMSE px - Tr:30.99 Val:15.82
+Ep 47/50 | Huber Tr:20.99 | Val:8.47
+  RH RMSE px - Tr:31.05 Val:11.66
+  RK RMSE px - Tr:29.03 Val:7.28
+  RA RMSE px - Tr:28.14 Val:11.43
+  LH RMSE px - Tr:26.54 Val:12.49
+  LK RMSE px - Tr:34.20 Val:8.58
+  LA RMSE px - Tr:26.05 Val:15.31
+Ep 48/50 | Huber Tr:21.15 | Val:8.24
+  RH RMSE px - Tr:34.82 Val:11.39
+  RK RMSE px - Tr:28.12 Val:7.40
+  RA RMSE px - Tr:24.26 Val:10.92
+  LH RMSE px - Tr:27.57 Val:12.37
+  LK RMSE px - Tr:36.67 Val:8.48
+  LA RMSE px - Tr:27.18 Val:14.54
+Ep 49/50 | Huber Tr:21.63 | Val:8.27
+  RH RMSE px - Tr:31.64 Val:11.72
+  RK RMSE px - Tr:31.32 Val:7.36
+  RA RMSE px - Tr:25.83 Val:10.70
+  LH RMSE px - Tr:28.21 Val:12.79
+  LK RMSE px - Tr:38.20 Val:8.46
+  LA RMSE px - Tr:28.16 Val:14.35
+Ep 50/50 | Huber Tr:21.59 | Val:8.12
+  RH RMSE px - Tr:27.89 Val:10.82
+  RK RMSE px - Tr:30.41 Val:7.31
+  RA RMSE px - Tr:25.61 Val:10.99
+  LH RMSE px - Tr:33.94 Val:11.68
+  LK RMSE px - Tr:39.62 Val:8.66
+  LA RMSE px - Tr:27.63 Val:14.82
 Training complete.
