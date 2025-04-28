@@ -1,4 +1,32 @@
-README.md
-proposal1-original_CNN/original_CNN-finalversion/llr_model_final.pth
-proposal1-original_CNN/original_CNN-finalversion/llr_model_final.pth
-proposal1-original_CNN/original_CNN-finalversion/llr_model_final.pth
+# Model checkpoints
+*.pth
+*.pt
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Distribution/build directories
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor settings
+.vscode/
+
+# macOS Finder
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+"*.pth" 
+"*.pt"  
