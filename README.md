@@ -11,7 +11,7 @@ These landmarks are foundational in calculating critical measurements such as le
 - **Goal**: The convolutional neural network should be trained to accept long leg radiograph images and output coordinate locations of several anatomical landmarks, including the center of the femoral head, center of the knee joint (patella), and center of the ankle joint.
 
 # Model Proposals
-Below is a high-level sumary of the two candidate models with their corresponding folder names. Proposal 1 is our selected model, while Proposal 2 showcases a separate model developed that did not perform at a better level.
+Below is a high-level sumary of the two candidate models with their corresponding folder names. Proposal 1 is our selected model, while Proposal 2 showcases a separate model developed that did not have better performance.
 
 **Proposal 1: Original CNN**
 - **Folder:** proposal1-original_CNN
