@@ -1,0 +1,188 @@
+Ep 1/25 | Pixel Huber Tr: 50.58 | Val: 18.38
+  RH RMSE px - Tr:76.15 Val:20.18
+  RK RMSE px - Tr:65.44 Val:36.88
+  RA RMSE px - Tr:80.40 Val:19.17
+  LH RMSE px - Tr:71.79 Val:30.59
+  LK RMSE px - Tr:63.92 Val:18.66
+  LA RMSE px - Tr:102.57 Val:22.38
+ *New best saved*
+Ep 2/25 | Pixel Huber Tr: 35.89 | Val: 25.20
+  RH RMSE px - Tr:51.48 Val:37.70
+  RK RMSE px - Tr:58.53 Val:14.17
+  RA RMSE px - Tr:41.23 Val:29.12
+  LH RMSE px - Tr:49.14 Val:36.40
+  LK RMSE px - Tr:67.42 Val:50.35
+  LA RMSE px - Tr:37.53 Val:39.51
+Ep 3/25 | Pixel Huber Tr: 29.01 | Val: 16.65
+  RH RMSE px - Tr:40.29 Val:30.03
+  RK RMSE px - Tr:42.49 Val:21.91
+  RA RMSE px - Tr:40.46 Val:26.88
+  LH RMSE px - Tr:44.47 Val:24.89
+  LK RMSE px - Tr:48.13 Val:21.23
+  LA RMSE px - Tr:30.25 Val:16.94
+ *New best saved*
+Ep 4/25 | Pixel Huber Tr: 27.95 | Val: 13.64
+  RH RMSE px - Tr:40.79 Val:30.29
+  RK RMSE px - Tr:44.28 Val:16.07
+  RA RMSE px - Tr:35.84 Val:17.60
+  LH RMSE px - Tr:46.93 Val:27.61
+  LK RMSE px - Tr:40.71 Val:14.29
+  LA RMSE px - Tr:31.83 Val:13.33
+ *New best saved*
+Ep 5/25 | Pixel Huber Tr: 26.18 | Val: 12.08
+  RH RMSE px - Tr:35.47 Val:19.59
+  RK RMSE px - Tr:37.99 Val:11.46
+  RA RMSE px - Tr:31.01 Val:12.54
+  LH RMSE px - Tr:37.81 Val:27.89
+  LK RMSE px - Tr:48.58 Val:19.62
+  LA RMSE px - Tr:34.17 Val:10.77
+ *New best saved*
+Ep 6/25 | Pixel Huber Tr: 23.89 | Val: 10.14
+  RH RMSE px - Tr:36.41 Val:18.54
+  RK RMSE px - Tr:29.66 Val:12.75
+  RA RMSE px - Tr:28.85 Val:9.27
+  LH RMSE px - Tr:36.22 Val:22.39
+  LK RMSE px - Tr:41.95 Val:11.49
+  LA RMSE px - Tr:29.20 Val:12.54
+ *New best saved*
+Ep 7/25 | Pixel Huber Tr: 21.13 | Val: 10.65
+  RH RMSE px - Tr:31.16 Val:20.20
+  RK RMSE px - Tr:29.02 Val:11.90
+  RA RMSE px - Tr:26.31 Val:10.64
+  LH RMSE px - Tr:37.37 Val:22.36
+  LK RMSE px - Tr:29.20 Val:15.03
+  LA RMSE px - Tr:25.43 Val:11.86
+Ep 8/25 | Pixel Huber Tr: 22.62 | Val: 10.81
+  RH RMSE px - Tr:37.24 Val:17.80
+  RK RMSE px - Tr:30.14 Val:18.01
+  RA RMSE px - Tr:30.84 Val:14.05
+  LH RMSE px - Tr:38.78 Val:17.92
+  LK RMSE px - Tr:33.02 Val:13.93
+  LA RMSE px - Tr:29.78 Val:13.80
+Ep 9/25 | Pixel Huber Tr: 20.62 | Val: 9.42
+  RH RMSE px - Tr:28.88 Val:17.59
+  RK RMSE px - Tr:25.37 Val:10.92
+  RA RMSE px - Tr:28.28 Val:11.01
+  LH RMSE px - Tr:34.75 Val:18.45
+  LK RMSE px - Tr:31.39 Val:14.33
+  LA RMSE px - Tr:25.06 Val:11.08
+ *New best saved*
+Ep 10/25 | Pixel Huber Tr: 19.88 | Val: 10.31
+  RH RMSE px - Tr:31.00 Val:24.19
+  RK RMSE px - Tr:25.54 Val:12.18
+  RA RMSE px - Tr:25.32 Val:8.72
+  LH RMSE px - Tr:32.28 Val:25.54
+  LK RMSE px - Tr:29.03 Val:11.88
+  LA RMSE px - Tr:24.27 Val:9.94
+Ep 11/25 | Pixel Huber Tr: 19.59 | Val: 11.21
+  RH RMSE px - Tr:28.95 Val:19.62
+  RK RMSE px - Tr:26.33 Val:17.70
+  RA RMSE px - Tr:25.84 Val:13.47
+  LH RMSE px - Tr:29.74 Val:21.68
+  LK RMSE px - Tr:26.93 Val:13.54
+  LA RMSE px - Tr:24.90 Val:11.97
+Ep 12/25 | Pixel Huber Tr: 19.48 | Val: 11.12
+  RH RMSE px - Tr:31.04 Val:19.96
+  RK RMSE px - Tr:27.14 Val:11.40
+  RA RMSE px - Tr:26.54 Val:13.68
+  LH RMSE px - Tr:31.45 Val:23.83
+  LK RMSE px - Tr:22.69 Val:13.95
+  LA RMSE px - Tr:27.39 Val:11.43
+Ep 13/25 | Pixel Huber Tr: 19.25 | Val: 9.64
+  RH RMSE px - Tr:30.22 Val:19.31
+  RK RMSE px - Tr:24.64 Val:10.87
+  RA RMSE px - Tr:32.79 Val:10.72
+  LH RMSE px - Tr:32.73 Val:24.74
+  LK RMSE px - Tr:22.92 Val:9.28
+  LA RMSE px - Tr:24.72 Val:10.05
+Ep 14/25 | Pixel Huber Tr: 19.08 | Val: 9.46
+  RH RMSE px - Tr:27.31 Val:18.09
+  RK RMSE px - Tr:23.75 Val:9.72
+  RA RMSE px - Tr:29.24 Val:9.36
+  LH RMSE px - Tr:31.66 Val:24.05
+  LK RMSE px - Tr:24.95 Val:9.91
+  LA RMSE px - Tr:27.55 Val:9.74
+Ep 15/25 | Pixel Huber Tr: 19.16 | Val: 12.07
+  RH RMSE px - Tr:30.74 Val:27.65
+  RK RMSE px - Tr:21.17 Val:9.55
+  RA RMSE px - Tr:29.98 Val:10.91
+  LH RMSE px - Tr:32.63 Val:27.74
+  LK RMSE px - Tr:24.91 Val:13.19
+  LA RMSE px - Tr:26.34 Val:11.00
+Ep 16/25 | Pixel Huber Tr: 17.47 | Val: 8.36
+  RH RMSE px - Tr:27.78 Val:17.17
+  RK RMSE px - Tr:21.90 Val:9.69
+  RA RMSE px - Tr:25.17 Val:8.48
+  LH RMSE px - Tr:29.46 Val:19.82
+  LK RMSE px - Tr:21.92 Val:8.73
+  LA RMSE px - Tr:24.74 Val:8.14
+ *New best saved*
+Ep 17/25 | Pixel Huber Tr: 18.88 | Val: 8.26
+  RH RMSE px - Tr:32.94 Val:17.98
+  RK RMSE px - Tr:20.90 Val:7.42
+  RA RMSE px - Tr:26.63 Val:9.35
+  LH RMSE px - Tr:35.08 Val:20.88
+  LK RMSE px - Tr:22.68 Val:7.67
+  LA RMSE px - Tr:24.58 Val:8.61
+ *New best saved*
+Ep 18/25 | Pixel Huber Tr: 16.91 | Val: 8.38
+  RH RMSE px - Tr:27.74 Val:16.93
+  RK RMSE px - Tr:18.88 Val:7.59
+  RA RMSE px - Tr:22.98 Val:10.80
+  LH RMSE px - Tr:29.33 Val:20.05
+  LK RMSE px - Tr:20.00 Val:8.37
+  LA RMSE px - Tr:21.82 Val:8.84
+Ep 19/25 | Pixel Huber Tr: 17.74 | Val: 10.14
+  RH RMSE px - Tr:30.28 Val:19.95
+  RK RMSE px - Tr:19.88 Val:9.85
+  RA RMSE px - Tr:21.67 Val:13.99
+  LH RMSE px - Tr:33.65 Val:20.60
+  LK RMSE px - Tr:22.84 Val:10.67
+  LA RMSE px - Tr:23.27 Val:11.83
+Ep 20/25 | Pixel Huber Tr: 16.33 | Val: 9.41
+  RH RMSE px - Tr:28.00 Val:15.34
+  RK RMSE px - Tr:19.08 Val:11.39
+  RA RMSE px - Tr:23.01 Val:11.25
+  LH RMSE px - Tr:27.52 Val:17.65
+  LK RMSE px - Tr:21.38 Val:11.41
+  LA RMSE px - Tr:23.79 Val:13.60
+Ep 21/25 | Pixel Huber Tr: 17.98 | Val: 8.88
+  RH RMSE px - Tr:29.37 Val:13.83
+  RK RMSE px - Tr:20.36 Val:9.24
+  RA RMSE px - Tr:23.44 Val:12.98
+  LH RMSE px - Tr:32.92 Val:15.73
+  LK RMSE px - Tr:21.31 Val:10.56
+  LA RMSE px - Tr:24.58 Val:12.63
+Ep 22/25 | Pixel Huber Tr: 16.56 | Val: 8.23
+  RH RMSE px - Tr:26.50 Val:13.25
+  RK RMSE px - Tr:19.28 Val:8.50
+  RA RMSE px - Tr:23.16 Val:11.61
+  LH RMSE px - Tr:26.77 Val:14.87
+  LK RMSE px - Tr:21.99 Val:9.97
+  LA RMSE px - Tr:21.36 Val:11.37
+ *New best saved*
+Ep 23/25 | Pixel Huber Tr: 16.15 | Val: 7.96
+  RH RMSE px - Tr:28.42 Val:12.68
+  RK RMSE px - Tr:18.11 Val:8.23
+  RA RMSE px - Tr:21.31 Val:10.83
+  LH RMSE px - Tr:31.08 Val:14.48
+  LK RMSE px - Tr:21.07 Val:10.50
+  LA RMSE px - Tr:19.72 Val:10.66
+ *New best saved*
+Ep 24/25 | Pixel Huber Tr: 16.78 | Val: 7.96
+  RH RMSE px - Tr:30.31 Val:12.48
+  RK RMSE px - Tr:18.24 Val:8.63
+  RA RMSE px - Tr:24.38 Val:9.97
+  LH RMSE px - Tr:32.38 Val:15.08
+  LK RMSE px - Tr:19.25 Val:10.17
+  LA RMSE px - Tr:23.83 Val:10.35
+ *New best saved*
+Ep 25/25 | Pixel Huber Tr: 17.69 | Val: 7.43
+  RH RMSE px - Tr:27.06 Val:12.06
+  RK RMSE px - Tr:20.67 Val:7.62
+  RA RMSE px - Tr:24.88 Val:9.75
+  LH RMSE px - Tr:28.71 Val:14.64
+  LK RMSE px - Tr:22.27 Val:9.63
+  LA RMSE px - Tr:26.92 Val:9.45
+ *New best saved*
+Training complete.

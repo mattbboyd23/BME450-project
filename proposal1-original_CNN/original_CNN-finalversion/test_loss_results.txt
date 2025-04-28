@@ -1,0 +1,10 @@
+=== Test Set Metrics ===
+Average Huber Loss: 7.9517
+Per-Landmark RMSE (px):
+  RH: 17.68
+  RK: 7.62
+  RA: 9.93
+  LH: 17.14
+  LK: 8.88
+  LA: 10.68
+Average RMSE: 11.99

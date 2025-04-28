@@ -1,0 +1,187 @@
+Epoch 1/25 | Train Loss: 0.031389 | Val Loss: 0.010683
+    RH Train MSE: 0.031075 | Val MSE: 0.014476
+    RK Train MSE: 0.011229 | Val MSE: 0.009920
+    RA Train MSE: 0.047731 | Val MSE: 0.011007
+    LH Train MSE: 0.042035 | Val MSE: 0.010144
+    LK Train MSE: 0.019690 | Val MSE: 0.005760
+    LA Train MSE: 0.036575 | Val MSE: 0.012788
+  → New best model saved (Val Loss: 0.010683)
+Epoch 2/25 | Train Loss: 0.007948 | Val Loss: 0.002659
+    RH Train MSE: 0.006357 | Val MSE: 0.003695
+    RK Train MSE: 0.012182 | Val MSE: 0.001343
+    RA Train MSE: 0.006684 | Val MSE: 0.001842
+    LH Train MSE: 0.006355 | Val MSE: 0.003403
+    LK Train MSE: 0.009056 | Val MSE: 0.002817
+    LA Train MSE: 0.007055 | Val MSE: 0.002853
+  → New best model saved (Val Loss: 0.002659)
+Epoch 3/25 | Train Loss: 0.005955 | Val Loss: 0.002077
+    RH Train MSE: 0.006544 | Val MSE: 0.002751
+    RK Train MSE: 0.006281 | Val MSE: 0.001219
+    RA Train MSE: 0.004858 | Val MSE: 0.001674
+    LH Train MSE: 0.006333 | Val MSE: 0.002548
+    LK Train MSE: 0.006305 | Val MSE: 0.001779
+    LA Train MSE: 0.005410 | Val MSE: 0.002491
+  → New best model saved (Val Loss: 0.002077)
+Epoch 4/25 | Train Loss: 0.005464 | Val Loss: 0.001921
+    RH Train MSE: 0.004295 | Val MSE: 0.002487
+    RK Train MSE: 0.004753 | Val MSE: 0.001609
+    RA Train MSE: 0.006186 | Val MSE: 0.001633
+    LH Train MSE: 0.004434 | Val MSE: 0.001982
+    LK Train MSE: 0.006985 | Val MSE: 0.001517
+    LA Train MSE: 0.006131 | Val MSE: 0.002298
+  → New best model saved (Val Loss: 0.001921)
+Epoch 5/25 | Train Loss: 0.004502 | Val Loss: 0.001842
+    RH Train MSE: 0.004692 | Val MSE: 0.002187
+    RK Train MSE: 0.004350 | Val MSE: 0.001465
+    RA Train MSE: 0.004069 | Val MSE: 0.001649
+    LH Train MSE: 0.005028 | Val MSE: 0.001699
+    LK Train MSE: 0.004746 | Val MSE: 0.001565
+    LA Train MSE: 0.004129 | Val MSE: 0.002486
+  → New best model saved (Val Loss: 0.001842)
+Epoch 6/25 | Train Loss: 0.004096 | Val Loss: 0.001783
+    RH Train MSE: 0.004380 | Val MSE: 0.002358
+    RK Train MSE: 0.003857 | Val MSE: 0.001251
+    RA Train MSE: 0.003829 | Val MSE: 0.001696
+    LH Train MSE: 0.004957 | Val MSE: 0.002021
+    LK Train MSE: 0.004494 | Val MSE: 0.001609
+    LA Train MSE: 0.003056 | Val MSE: 0.001766
+  → New best model saved (Val Loss: 0.001783)
+Epoch 7/25 | Train Loss: 0.004392 | Val Loss: 0.001745
+    RH Train MSE: 0.004055 | Val MSE: 0.002287
+    RK Train MSE: 0.003950 | Val MSE: 0.001311
+    RA Train MSE: 0.004754 | Val MSE: 0.001587
+    LH Train MSE: 0.004931 | Val MSE: 0.001726
+    LK Train MSE: 0.004094 | Val MSE: 0.001636
+    LA Train MSE: 0.004565 | Val MSE: 0.001922
+  → New best model saved (Val Loss: 0.001745)
+Epoch 8/25 | Train Loss: 0.003858 | Val Loss: 0.001854
+    RH Train MSE: 0.003754 | Val MSE: 0.002417
+    RK Train MSE: 0.003459 | Val MSE: 0.001489
+    RA Train MSE: 0.004373 | Val MSE: 0.001637
+    LH Train MSE: 0.003923 | Val MSE: 0.002122
+    LK Train MSE: 0.003536 | Val MSE: 0.001557
+    LA Train MSE: 0.004102 | Val MSE: 0.001901
+Epoch 9/25 | Train Loss: 0.003796 | Val Loss: 0.001626
+    RH Train MSE: 0.003957 | Val MSE: 0.002235
+    RK Train MSE: 0.003183 | Val MSE: 0.001698
+    RA Train MSE: 0.003991 | Val MSE: 0.001400
+    LH Train MSE: 0.003919 | Val MSE: 0.001624
+    LK Train MSE: 0.003238 | Val MSE: 0.001294
+    LA Train MSE: 0.004488 | Val MSE: 0.001508
+  → New best model saved (Val Loss: 0.001626)
+Epoch 10/25 | Train Loss: 0.003712 | Val Loss: 0.001787
+    RH Train MSE: 0.003972 | Val MSE: 0.002491
+    RK Train MSE: 0.003185 | Val MSE: 0.001242
+    RA Train MSE: 0.003734 | Val MSE: 0.001485
+    LH Train MSE: 0.004341 | Val MSE: 0.002201
+    LK Train MSE: 0.003530 | Val MSE: 0.001474
+    LA Train MSE: 0.003509 | Val MSE: 0.001830
+Epoch 11/25 | Train Loss: 0.003331 | Val Loss: 0.001712
+    RH Train MSE: 0.003097 | Val MSE: 0.002277
+    RK Train MSE: 0.002925 | Val MSE: 0.001204
+    RA Train MSE: 0.003759 | Val MSE: 0.001618
+    LH Train MSE: 0.003789 | Val MSE: 0.002183
+    LK Train MSE: 0.002631 | Val MSE: 0.001411
+    LA Train MSE: 0.003787 | Val MSE: 0.001578
+Epoch 12/25 | Train Loss: 0.003209 | Val Loss: 0.001778
+    RH Train MSE: 0.003577 | Val MSE: 0.002264
+    RK Train MSE: 0.002920 | Val MSE: 0.001266
+    RA Train MSE: 0.003188 | Val MSE: 0.001704
+    LH Train MSE: 0.003279 | Val MSE: 0.002141
+    LK Train MSE: 0.002903 | Val MSE: 0.001575
+    LA Train MSE: 0.003388 | Val MSE: 0.001715
+Epoch 13/25 | Train Loss: 0.003149 | Val Loss: 0.001780
+    RH Train MSE: 0.003314 | Val MSE: 0.002186
+    RK Train MSE: 0.002634 | Val MSE: 0.001727
+    RA Train MSE: 0.003573 | Val MSE: 0.001395
+    LH Train MSE: 0.003711 | Val MSE: 0.001677
+    LK Train MSE: 0.002554 | Val MSE: 0.001607
+    LA Train MSE: 0.003107 | Val MSE: 0.002085
+Epoch 14/25 | Train Loss: 0.003242 | Val Loss: 0.001713
+    RH Train MSE: 0.003779 | Val MSE: 0.002330
+    RK Train MSE: 0.002179 | Val MSE: 0.001192
+    RA Train MSE: 0.004047 | Val MSE: 0.001349
+    LH Train MSE: 0.003405 | Val MSE: 0.002325
+    LK Train MSE: 0.002476 | Val MSE: 0.001424
+    LA Train MSE: 0.003566 | Val MSE: 0.001657
+Epoch 15/25 | Train Loss: 0.003255 | Val Loss: 0.001661
+    RH Train MSE: 0.003743 | Val MSE: 0.002276
+    RK Train MSE: 0.002199 | Val MSE: 0.001300
+    RA Train MSE: 0.003197 | Val MSE: 0.001282
+    LH Train MSE: 0.004279 | Val MSE: 0.002160
+    LK Train MSE: 0.002633 | Val MSE: 0.001476
+    LA Train MSE: 0.003480 | Val MSE: 0.001470
+Epoch 16/25 | Train Loss: 0.002646 | Val Loss: 0.001627
+    RH Train MSE: 0.002465 | Val MSE: 0.002328
+    RK Train MSE: 0.002251 | Val MSE: 0.001234
+    RA Train MSE: 0.002929 | Val MSE: 0.001253
+    LH Train MSE: 0.002817 | Val MSE: 0.001933
+    LK Train MSE: 0.002637 | Val MSE: 0.001461
+    LA Train MSE: 0.002776 | Val MSE: 0.001549
+Epoch 17/25 | Train Loss: 0.002816 | Val Loss: 0.001622
+    RH Train MSE: 0.003635 | Val MSE: 0.002268
+    RK Train MSE: 0.001949 | Val MSE: 0.001284
+    RA Train MSE: 0.002686 | Val MSE: 0.001350
+    LH Train MSE: 0.003458 | Val MSE: 0.001928
+    LK Train MSE: 0.002183 | Val MSE: 0.001404
+    LA Train MSE: 0.002985 | Val MSE: 0.001499
+  → New best model saved (Val Loss: 0.001622)
+Epoch 18/25 | Train Loss: 0.002800 | Val Loss: 0.001621
+    RH Train MSE: 0.003345 | Val MSE: 0.002187
+    RK Train MSE: 0.002251 | Val MSE: 0.001343
+    RA Train MSE: 0.002643 | Val MSE: 0.001422
+    LH Train MSE: 0.003827 | Val MSE: 0.001895
+    LK Train MSE: 0.001887 | Val MSE: 0.001396
+    LA Train MSE: 0.002846 | Val MSE: 0.001485
+  → New best model saved (Val Loss: 0.001621)
+Epoch 19/25 | Train Loss: 0.002841 | Val Loss: 0.001504
+    RH Train MSE: 0.003362 | Val MSE: 0.002042
+    RK Train MSE: 0.001939 | Val MSE: 0.001333
+    RA Train MSE: 0.002938 | Val MSE: 0.001265
+    LH Train MSE: 0.003261 | Val MSE: 0.001692
+    LK Train MSE: 0.002686 | Val MSE: 0.001330
+    LA Train MSE: 0.002859 | Val MSE: 0.001362
+  → New best model saved (Val Loss: 0.001504)
+Epoch 20/25 | Train Loss: 0.002830 | Val Loss: 0.001664
+    RH Train MSE: 0.002636 | Val MSE: 0.002333
+    RK Train MSE: 0.002349 | Val MSE: 0.001175
+    RA Train MSE: 0.003144 | Val MSE: 0.001368
+    LH Train MSE: 0.003223 | Val MSE: 0.002206
+    LK Train MSE: 0.002107 | Val MSE: 0.001462
+    LA Train MSE: 0.003522 | Val MSE: 0.001439
+Epoch 21/25 | Train Loss: 0.002688 | Val Loss: 0.001608
+    RH Train MSE: 0.002796 | Val MSE: 0.002298
+    RK Train MSE: 0.001944 | Val MSE: 0.001227
+    RA Train MSE: 0.003073 | Val MSE: 0.001179
+    LH Train MSE: 0.002978 | Val MSE: 0.002121
+    LK Train MSE: 0.002521 | Val MSE: 0.001444
+    LA Train MSE: 0.002819 | Val MSE: 0.001381
+Epoch 22/25 | Train Loss: 0.002974 | Val Loss: 0.001597
+    RH Train MSE: 0.003125 | Val MSE: 0.002378
+    RK Train MSE: 0.002430 | Val MSE: 0.001452
+    RA Train MSE: 0.003660 | Val MSE: 0.001006
+    LH Train MSE: 0.003327 | Val MSE: 0.001930
+    LK Train MSE: 0.001818 | Val MSE: 0.001428
+    LA Train MSE: 0.003487 | Val MSE: 0.001389
+Epoch 23/25 | Train Loss: 0.002758 | Val Loss: 0.001586
+    RH Train MSE: 0.003510 | Val MSE: 0.002287
+    RK Train MSE: 0.001894 | Val MSE: 0.001207
+    RA Train MSE: 0.002741 | Val MSE: 0.001125
+    LH Train MSE: 0.003160 | Val MSE: 0.002018
+    LK Train MSE: 0.002217 | Val MSE: 0.001460
+    LA Train MSE: 0.003028 | Val MSE: 0.001420
+Epoch 24/25 | Train Loss: 0.002758 | Val Loss: 0.001524
+    RH Train MSE: 0.002956 | Val MSE: 0.002083
+    RK Train MSE: 0.002139 | Val MSE: 0.001403
+    RA Train MSE: 0.003170 | Val MSE: 0.001195
+    LH Train MSE: 0.002767 | Val MSE: 0.001698
+    LK Train MSE: 0.002105 | Val MSE: 0.001400
+    LA Train MSE: 0.003409 | Val MSE: 0.001362
+Epoch 25/25 | Train Loss: 0.002849 | Val Loss: 0.001575
+    RH Train MSE: 0.003399 | Val MSE: 0.002204
+    RK Train MSE: 0.002000 | Val MSE: 0.001251
+    RA Train MSE: 0.002875 | Val MSE: 0.001110
+    LH Train MSE: 0.003573 | Val MSE: 0.002090
+    LK Train MSE: 0.002376 | Val MSE: 0.001444
+    LA Train MSE: 0.002872 | Val MSE: 0.001352
+Training complete.
